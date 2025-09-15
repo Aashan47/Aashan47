@@ -31,10 +31,10 @@ Currently working full-time at [FortyGuard](https://fortyguard.com), an Abu Dhab
 
 ---
 ### 🌍 Connect with Me
-- See my porfolio and resume at: [aashanjaved.com] (https://aashanjaved.com)  
-- [LinkedIn](https://linkedin.com/in/yourusername)  
-- [GitHub](https://github.com/yourusername)  
-- [Email](mailto:your@email.com)  
+- See my porfolio and resume at: [aashanjaved.com](https://aashanjaved.com)  
+- [LinkedIn](https://www.linkedin.com/in/aashan-javed/)  
+- [GitHub](https://github.com/Aashan47)  
+- [Email](mailto:aashanjaved567@gmail.com)  
 
 ---
 
