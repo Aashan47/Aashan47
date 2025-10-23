@@ -13,6 +13,8 @@ Currently working full-time at [FortyGuard](https://fortyguard.com), an Abu Dhab
 ---
 
 ### 📌 Featured Projects
+- **Urban Data Center Site and Risk Assessment Platform**
+  Comprehensive web application for evaluating optimal data center locations using NASA Earth Observation data, urban demographics, and infrastructure analysis. Features interactive mapping, multi-factor risk assessment, automated scoring, and professional reporting capabilities.
 - **AlphaEarth Climate Intelligence Dashboard**  
   A production-ready temperature and climate intelligence dashboard that leverages DeepMind's AlphaEarth Foundations model for advanced geospatial analysis.
 - **Fraudulent Transaction Detection System**  
