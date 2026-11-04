@@ -6,7 +6,7 @@ At [FortyGuard](https://fortyguard.com), a climate tech startup headquartered in
 
 ### Recent work
 
-- **[greenlight](https://github.com/Aashan47/greenlight)** · [product page](https://www.aashanjaved.com/greenlight/) · [live demo](https://greenlight.aashanjaved.com)<br>
+- **[greenlight](https://www.aashanjaved.com/greenlight/)** · [live demo](https://greenlight.aashanjaved.com)<br>
   On-call incident copilot. It investigates an alert through its own MCP servers, cites the evidence behind every claim, and proposes one fix; a separate runner executes it only after a person approves the exact change with a signed, single-use approval. On 24 held-out incidents: 72 of 72 runs correct and 0 unsafe proposals, against 4 unsafe proposals for one prompt with the data pasted in.
 
 - **[holdline](https://github.com/Aashan47/holdline)** · [product page](https://www.aashanjaved.com/holdline/) · `pip install holdline`<br>
